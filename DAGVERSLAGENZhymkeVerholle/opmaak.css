@@ -2,14 +2,14 @@ header{text-align: center;
         color:black;}
 
 body{font-family: Arial, Helvetica, sans-serif;
-    background-color: black;
+    background-color: whitesmoke;
     color:black;}
 
 nav{ background-color:white;
     border-radius: 15 px;
     padding: 10px;
-    background-color: rgb(224, 176, 118);
-    position: absolute;  }
+    background-color:blanchedalmond;}
+
 
 nav li{display:inline;
         padding: 10px;}
@@ -17,17 +17,16 @@ nav li{display:inline;
 a:hover{font-weight: bold;
         border-radius:10px;}
 
-a:active{color: rgb(87,10,209);}
+a:active{color: black}
 
-a:visited{color: black;}
+a:visited{color: blue;}
 
-article{width:90%;
-        background-color: whitesmoke;}
+article{background-color: whitesmoke;
+        border-radius: 10%;
+        border: solid 3 px black;}
         
-section{border-radius: 10%;
-        border: solid 3 px black;
-        background-color: whitesmoke;}
+section{background-color:rgb(218, 167, 106);}
 
-footer{color:white;}
+footer{color:black;}
 
     
