@@ -1,9 +1,9 @@
 header{text-align: center;
-        color: white;}
+        color:black;}
 
 body{font-family: Arial, Helvetica, sans-serif;
     background-color: black;
-    color:white;}
+    color:black;}
 
 nav{ background-color:white;
     border-radius: 15 px;
@@ -27,5 +27,7 @@ article{width:90%;
 section{border-radius: 10%;
         border: solid 3 px black;
         background-color: whitesmoke;}
+
+footer{color:white;}
 
     
