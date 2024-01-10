@@ -1,6 +1,7 @@
 header{text-align: center;}
 
-body{font-family: Arial, Helvetica, sans-serif;}
+body{font-family: Arial, Helvetica, sans-serif;
+    background-color: black;}
 
 nav{ background-color:white;
     border-radius: 10 px;
@@ -23,4 +24,5 @@ article{width:90%;
 section{border-radius: 10%;
         border: solid 3 px black;
         background-color: rgb(255, 185, 189);}
-        
+
+    
