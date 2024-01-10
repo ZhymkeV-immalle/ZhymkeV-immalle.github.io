@@ -22,10 +22,10 @@ a:active{color: rgb(87,10,209);}
 a:visited{color: black;}
 
 article{width:90%;
-        background-color: rgb(240, 217, 188);}
-
+        background-color: whitesmoke;}
+        
 section{border-radius: 10%;
         border: solid 3 px black;
-        background-color: rgb(255, 185, 189);}
+        background-color: whitesmoke;}
 
     
