@@ -1,0 +1,32 @@
+header{text-align: center;
+        color:black;}
+
+body{font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+    color:black;}
+
+nav{ background-color:white;
+    border-radius: 15 px;
+    padding: 10px;
+    background-color:blanchedalmond;}
+
+
+nav li{display:inline;
+        padding: 10px;}
+
+a:hover{font-weight: bold;
+        border-radius:10px;}
+
+a:active{color: black}
+
+a:visited{color: blue;}
+
+article{background-color: whitesmoke;
+        border-radius: 10%;
+        border: solid 3 px black;}
+        
+section{background-color:rgb(218, 167, 106);}
+
+footer{color:black;}
+
+    
