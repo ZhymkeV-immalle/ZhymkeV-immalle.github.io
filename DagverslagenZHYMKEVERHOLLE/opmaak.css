@@ -71,3 +71,19 @@ font-size: 20px;
               border-style:dotted;
               border-style: double;
               margin-top: 20px; }
+
+#Cadeaubon{float:right;
+           }
+#TekstCadeaubon{float:right;}
+
+#Reserveren{float:right;
+            text-decoration: none;
+            color:#b3af54;
+            font-size: medium;
+            border: solid 1px #b3af54;
+            border-radius: 7px;
+            padding-top:5px;
+            padding-left: 5px;
+            padding-bottom: 5px;
+            padding-right: 5px;
+            margin-top:5px;}
